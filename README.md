@@ -126,16 +126,6 @@ Hoje sou **Especialista em Projetos de RPA e IA na Trinus**, onde conduzo inicia
 
 ---
 
-## GitHub em números
-
-<div align="center">
-
-![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=wesleyrteixeira&hide_border=true&theme=tokyo-night&area=true)
-
-</div>
-
----
-
 ## Vamos conversar?
 
 Tenho interesse especial em **Lean Office e automação de backoffice**, **automação fiscal e tributária**, **IA aplicada a documentos** e **integrações financeiras**, inclusive o que muda com a reforma tributária.
