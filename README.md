@@ -2,9 +2,9 @@
 
 # Wesley Rodrigues Teixeira
 
-**Especialista em Projetos de RPA e IA · Automação Fiscal e Financeira**
+**Especialista em Projetos de RPA e IA · Lean Office e Automação de Backoffice**
 
-Construo automações que tiram do caminho a conferência manual de notas, extratos e relatórios, com regra fiscal no código e rastreabilidade de ponta a ponta.
+Uno Lean Office, RPA e IA para tirar do backoffice o trabalho manual e repetitivo (conferência de notas, conciliação de extratos, montagem de relatórios, cadastros), com regra de negócio no código e rastreabilidade de ponta a ponta.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-rodrigues-teixeira-a7595163/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleyrteixeira@hotmail.com)
@@ -17,12 +17,14 @@ Construo automações que tiram do caminho a conferência manual de notas, extra
 
 ## Sobre mim
 
-Sou **engenheiro mecatrônico** e cheguei à automação pelo caminho dos processos: qualidade automotiva (ISO/TS 16949), excelência operacional e melhoria contínua em logística. Por isso, antes de escrever um robô, eu mapeio o processo, meço e só então automatizo.
+Sou **engenheiro mecatrônico** e cheguei à automação pelo caminho dos processos: qualidade automotiva (ISO/TS 16949), excelência operacional e melhoria contínua em logística. Por isso, antes de escrever um robô, aplico **Lean Office**: mapeio o fluxo de valor, elimino etapas que não agregam, padronizo e só então automatizo o que sobrou.
 
-Hoje sou **Especialista em Projetos de RPA e IA na Trinus**, onde conduzo iniciativas de melhoria contínua da concepção à mensuração de resultados, desenvolvendo automações e produtos internos para as áreas **fiscal, financeira e contábil**: da captura do documento na fonte (portal da NFS-e, SEFAZ, APIs bancárias, ERPs) até a validação, o registro e a publicação do resultado para quem decide.
+Hoje sou **Especialista em Projetos de RPA e IA na Trinus**, onde conduzo iniciativas de melhoria contínua da concepção à mensuração de resultados e desenvolvo automações e produtos internos para o **backoffice**, com foco nas áreas **fiscal, financeira, contábil e de cadastros**: da captura do documento na fonte (portal da NFS-e, SEFAZ, APIs bancárias, ERPs) até a validação, o registro e a publicação do resultado para quem decide.
 
 | Frente | O que eu faço |
 |---|---|
+| **Lean Office** | Mapeamento de fluxo de valor (VSM) em processos administrativos, eliminação de desperdícios, padronização e indicadores antes e depois da automação |
+| **Backoffice** | Automação de rotinas administrativas de ponta a ponta: cadastros de fornecedores, pagamentos, relatórios gerenciais e arquivos para auditoria |
 | **Fiscal** | Conciliação de NFS-e com processos de pagamento, validação de ISS, IRRF, CSRF e INSS contra a legislação, extração de notas por IA |
 | **Financeiro** | Integração com APIs bancárias via mTLS, extratos e francesinha diários, relatórios de ERP |
 | **Plataforma** | DAGs do Airflow em Kubernetes, boilerplate corporativo para novos robôs, portal interno de operação das automações |
@@ -31,7 +33,7 @@ Hoje sou **Especialista em Projetos de RPA e IA na Trinus**, onde conduzo inicia
 
 ## Como eu trabalho
 
-- **Processo antes de código.** Automatizar um processo ruim só faz o erro acontecer mais rápido; primeiro se mapeia, mede e simplifica.
+- **Processo antes de código.** Automatizar um processo ruim só faz o erro acontecer mais rápido. Com Lean Office, primeiro se mapeia, mede e elimina o desperdício; o robô vem depois.
 - **Regra fiscal é código, não planilha.** Alíquotas e retenções são validadas contra fonte oficial, versionadas e auditáveis.
 - **IA com rede de proteção.** LLM extrai; validação determinística (CNPJ, regex, tabelas oficiais) e um gate de confiança decidem o que segue sozinho e o que vai para revisão humana.
 - **Segredo não mora no repositório.** Certificados e credenciais ficam no Key Vault; histórico limpo e gitleaks no CI.
@@ -136,7 +138,7 @@ Hoje sou **Especialista em Projetos de RPA e IA na Trinus**, onde conduzo inicia
 
 ## Vamos conversar?
 
-Tenho interesse especial em **automação fiscal e tributária**, **IA aplicada a documentos** e **integrações financeiras**, inclusive o que muda com a reforma tributária.
+Tenho interesse especial em **Lean Office e automação de backoffice**, **automação fiscal e tributária**, **IA aplicada a documentos** e **integrações financeiras**, inclusive o que muda com a reforma tributária.
 
 <div align="center">
 
