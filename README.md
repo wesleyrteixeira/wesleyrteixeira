@@ -2,11 +2,11 @@
 
 # Wesley Rodrigues Teixeira
 
-**<!-- TODO: cargo --> · RPA, Automação Fiscal e IA Aplicada**
+**Especialista em Projetos de RPA e IA · Automação Fiscal e Financeira**
 
 Construo automações que tiram do caminho a conferência manual de notas, extratos e relatórios, com regra fiscal no código e rastreabilidade de ponta a ponta.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TODO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-rodrigues-teixeira-a7595163/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleyrteixeira@hotmail.com)
 
 `+63% das NFS-e aprovadas sem analista` · `~24 robôs orquestrados em Kubernetes` · `extratos bancários diários via API`
@@ -17,20 +17,21 @@ Construo automações que tiram do caminho a conferência manual de notas, extra
 
 ## Sobre mim
 
-<!-- TODO: formação (curso e instituição) -->
+Sou **engenheiro mecatrônico** e cheguei à automação pelo caminho dos processos: qualidade automotiva (ISO/TS 16949), excelência operacional e melhoria contínua em logística. Por isso, antes de escrever um robô, eu mapeio o processo, meço e só então automatizo.
 
-Hoje atuo no time de **RPA e Melhoria Contínua da Trinus**, desenvolvendo automações e produtos internos para as áreas **fiscal, financeira e contábil**: da captura do documento na fonte (portal da NFS-e, SEFAZ, APIs bancárias, ERPs) até a validação, o registro e a publicação do resultado para quem decide.
+Hoje sou **Especialista em Projetos de RPA e IA na Trinus**, onde conduzo iniciativas de melhoria contínua da concepção à mensuração de resultados, desenvolvendo automações e produtos internos para as áreas **fiscal, financeira e contábil**: da captura do documento na fonte (portal da NFS-e, SEFAZ, APIs bancárias, ERPs) até a validação, o registro e a publicação do resultado para quem decide.
 
 | Frente | O que eu faço |
 |---|---|
 | **Fiscal** | Conciliação de NFS-e com processos de pagamento, validação de ISS, IRRF, CSRF e INSS contra a legislação, extração de notas por IA |
-| **Financeiro** | Integração com APIs bancárias via mTLS, extratos e francesinha diários, relatórios de ERP (Sienge, UAU) |
+| **Financeiro** | Integração com APIs bancárias via mTLS, extratos e francesinha diários, relatórios de ERP |
 | **Plataforma** | DAGs do Airflow em Kubernetes, boilerplate corporativo para novos robôs, portal interno de operação das automações |
 
 ---
 
 ## Como eu trabalho
 
+- **Processo antes de código.** Automatizar um processo ruim só faz o erro acontecer mais rápido; primeiro se mapeia, mede e simplifica.
 - **Regra fiscal é código, não planilha.** Alíquotas e retenções são validadas contra fonte oficial, versionadas e auditáveis.
 - **IA com rede de proteção.** LLM extrai; validação determinística (CNPJ, regex, tabelas oficiais) e um gate de confiança decidem o que segue sozinho e o que vai para revisão humana.
 - **Segredo não mora no repositório.** Certificados e credenciais ficam no Key Vault; histórico limpo e gitleaks no CI.
@@ -112,10 +113,14 @@ Hoje atuo no time de **RPA e Melhoria Contínua da Trinus**, desenvolvendo autom
 
 ## Trajetória
 
-<!-- TODO: preencher -->
 | Período | Empresa | Papel | Escopo |
 |---|---|---|---|
-| TODO – atual | **Trinus** | TODO | Automações fiscais, financeiras e contábeis, integrações bancárias e plataforma de RPA |
+| 2025 – atual | **Trinus** | Especialista em Projetos de RPA e IA | Gestão de projetos de melhoria contínua, automações fiscais, financeiras e contábeis com IA, integrações bancárias e plataforma de RPA |
+| 2023 – 2025 | **Trinus** | Analista de Melhoria Contínua Sênior | Automações e integrações com a API do ERP usando Python (Requests, Flask, FastAPI, Django) e Power Automate |
+| 2022 – 2023 | **Comfrio** | Engenheiro de Melhoria Contínua | Análise de fluxos logísticos, identificação de ineficiências e projetos de melhoria |
+| 2021 – 2022 | **Comfrio** | Analista de Excelência Operacional | Otimização de processos e inteligência de mercado |
+| 2014 – 2019 | **Metalúrgica Agathon** | Engenheiro de Processos de Qualidade | Sistema de gestão de processos e controle de qualidade de produtos automotivos (ISO/TS 16949) |
+| 2012 – 2014 | **Metalúrgica Agathon** | Estagiário de Engenharia da Qualidade | Análises dimensionais, testes e registro de resultados |
 
 ---
 
@@ -135,7 +140,7 @@ Tenho interesse especial em **automação fiscal e tributária**, **IA aplicada 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TODO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-rodrigues-teixeira-a7595163/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleyrteixeira@hotmail.com)
 
 </div>
