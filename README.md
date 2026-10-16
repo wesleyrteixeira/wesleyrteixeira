@@ -9,7 +9,7 @@ Uno Lean Office, RPA e IA para tirar do backoffice o trabalho manual e repetitiv
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-rodrigues-teixeira-a7595163/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesleyrteixeira@hotmail.com)
 
-`+63% das NFS-e aprovadas sem analista` · `~24 robôs orquestrados em Kubernetes` · `extratos bancários diários via API`
+`+78% das NFS-e aprovadas sem analista` · `~24 robôs orquestrados em Kubernetes` · `extratos bancários diários via API`
 
 </div>
 
@@ -46,7 +46,7 @@ Hoje sou **Especialista em Projetos de RPA e IA na Trinus**, onde conduzo inicia
 ### 🧾 Análise fiscal automatizada de NFS-e
 **Contexto:** toda nota de serviço passava por conferência manual de impostos antes do pagamento.
 **Solução:** robô que concilia processos de pagamento pendentes no ERP com o XML da nota e valida as retenções contra a legislação. Sem XML, três agentes de IA (extração, auditoria e consolidação) leem o PDF ou a imagem de qualquer layout municipal. O resultado volta ao ERP como comentário e status.
-**Resultado:** **mais de 63% das notas aprovadas automaticamente**, com painel de ROI acompanhando a evolução semana a semana.
+**Resultado:** **mais de 78% das notas aprovadas automaticamente**, com painel de ROI acompanhando a evolução semana a semana.
 
 `Python` · `OpenAI` · `Anthropic` · `PyMuPDF` · `SQL Server` · `Databricks`
 
